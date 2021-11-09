@@ -1,0 +1,138 @@
+.ej1{
+    align-items: center;
+    width: 710px;
+    height: 580px;
+    border-radius: 10px;
+    background:rgba(219, 219, 219, 0.9);
+}
+
+.t{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+h5{
+    color: rgb(175, 175, 175);
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+}
+
+.s1{
+    position: absolute;
+    width: 282px;
+    left: 47px;
+    top: 100px;
+}
+
+.s2{
+    position: absolute;
+    width: 282px;
+    left: 360px;
+    top: 100px;
+}
+
+.s3{
+    position: absolute;
+    width: 282px;
+    left: 47px;
+    top: 200px;
+}
+
+.s4{
+    position: absolute;
+    width: 282px;
+    left: 360px;
+    top: 200px;
+}
+
+.s5{
+    position: absolute;
+    width: 282px;
+    left: 47px;
+    top: 300px;
+}
+
+.s6{
+    position: absolute;
+    width: 282px;
+    left: 360px;
+    top: 300px;
+}
+
+input{
+    border-radius: 14px;
+    height: 40px;
+    border: none;
+}
+
+select{
+    height: 45px;
+    border-radius: 15px;
+    border: none;
+}
+
+.txt1{
+    position: absolute;
+    width: 282px;
+    left: 47px;
+    top: 150px;
+}
+
+.txt2{
+    position: absolute;
+    width: 282px;
+    left: 360px;
+    top: 150px;
+}
+
+.txt3{
+    position: absolute;
+    width: 282px;
+    left: 47px;
+    top: 250px;
+}
+
+.txt4{
+    position: absolute;
+    width: 282px;
+    left: 360px;
+    top: 250px;
+}
+
+.txt5{
+    position: absolute;
+    width: 282px;
+    left: 47px;
+    top: 350px;
+}
+
+.txt6{
+    position: absolute;
+    width: 282px;
+    left: 360px;
+    top: 350px;
+}
+
+
+.boton1{
+    position: absolute;
+    border-radius: 34px;
+    background-color: #EF7D01;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 17px;
+    padding: 20px;
+    width: 325px;
+    height: 55px;
+    top: 450px;
+    left: 180px;
+}
+
+
+
+
+
+
